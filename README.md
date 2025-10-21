@@ -15,7 +15,7 @@ By following this guide, you’ll ensure Visual Studio Code integrates smoothly 
 
 - **/screenshots/** — All captured setup and installation images  
 - **README.md** — Full installation instructions and verification commands  
-- *(Optional)* Future updates will include macOS and Linux setup notes
+- *(Planned Update)* Future revisions will include macOS and Linux setup documentation.
 
 ---
 
